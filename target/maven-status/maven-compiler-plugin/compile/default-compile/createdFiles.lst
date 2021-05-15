@@ -1,2 +1,4 @@
-mdu\crud\config\AppInit.class
+mdu\crud\model\CarBrand.class
 mdu\crud\config\WebConfig.class
+mdu\crud\config\AppInit.class
+mdu\crud\config\DataSourceConfig.class
