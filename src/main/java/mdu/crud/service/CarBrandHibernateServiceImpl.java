@@ -16,6 +16,7 @@ public class CarBrandHibernateServiceImpl implements CarBrandService {
     private CarBrandDAO carBrandDAO;
 
     public void saveOrUpdate(CarBrand item) {
+
         carBrandDAO.saveOrUpdate(item);
     }
 
