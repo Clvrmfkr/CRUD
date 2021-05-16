@@ -12,6 +12,7 @@ C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\config\HibernateConfi
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\model\CarModel.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\dao\jpa\CarModelDAOJpaImpl.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\service\CarBrandJdbcServiceImpl.java
+C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\controllers\JpaController.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\config\WebConfig.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\dao\CarModelDAO.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\service\CarBrandHibernateServiceImpl.java
@@ -21,6 +22,8 @@ C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\service\CarBrandJpaSe
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\view\ExcelBuilder.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\view\PDFBuilder.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\dao\hibernate\CarModelDAOHibernateImpl.java
+C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\controllers\HibernateController.java
+C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\controllers\JdbcController.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\view\AbstractPOIExcelView.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\config\JpaConfig.java
 C:\Users\vovao\Documents\CURSE\CRUD\src\main\java\mdu\crud\config\JdbcConfig.java

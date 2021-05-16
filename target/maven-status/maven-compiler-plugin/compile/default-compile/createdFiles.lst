@@ -5,11 +5,14 @@ mdu\crud\dao\hibernate\CarBrandDAOHibernateImpl.class
 mdu\crud\config\HibernateConfig.class
 mdu\crud\dao\jdbc\CarModelDAOJdbcImpl.class
 mdu\crud\config\AppInit.class
+mdu\crud\controllers\JdbcController.class
 mdu\crud\config\JpaConfig.class
 mdu\crud\dao\jdbc\CarBrandDAOJdbcImpl$2.class
 mdu\crud\service\CarModelService.class
+mdu\crud\controllers\HibernateController.class
 mdu\crud\dao\jdbc\CarModelDAOJdbcImpl$1.class
 mdu\crud\view\AbstractPOIExcelView.class
+mdu\crud\controllers\JpaController.class
 mdu\crud\dao\CarBrandDAO.class
 mdu\crud\dao\hibernate\CarModelDAOHibernateImpl.class
 mdu\crud\service\CarModelHibernateServiceImpl.class
